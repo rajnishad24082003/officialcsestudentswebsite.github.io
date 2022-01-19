@@ -1,0 +1,164 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+@media(max-width:998px)
+{
+    html
+    {
+        font-size: 75%;
+    }
+}
+@media(max-width:768px)/*horizontal mobile*/
+{
+    html
+    {
+        font-size: 55%;
+    }
+    .search
+    {
+        display: none;
+
+    }
+    h1
+    {
+        font-size: 95%;
+    }
+}
+
+.fh
+{
+    background-color: rgb(0, 0, 97);
+
+    height: 6rem;
+
+}
+.fh h1
+{
+
+
+    text-align: center;
+    transform: translate3d(0,1.8rem,0);
+}
+.fh h1 a{
+    color: white;
+    text-decoration: none;
+}
+.fh :hover
+{
+    color: skyblue;
+}
+.sh
+{
+    background-color: rgb(0, 0, 130);
+    width: 100vw;
+    height: 3rem;
+}
+.navbar
+{
+    list-style: none;
+    display: flex;
+    transform: translate3d(-2rem,0.9rem, 0);
+}
+.navbar li a
+{
+    text-decoration: none;
+    color: white;
+    margin-right: 1.5rem;
+}
+.sh ul li :hover
+{
+    color: skyblue;
+}
+.search
+{
+    height: 1rem;
+    width: 24rem;
+    transform: translateX(39rem);
+}
+.body ul
+{
+    list-style-type: none;
+}
+.footer
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    transform: translateY(81rem);
+}
+/*       
+teachers
+*/
+.egd
+{
+    background-color: #C32148;
+    list-style-type: none;
+    box-shadow: 0 0 2rem #bac3c3;
+    text-align: center;
+
+}
+.m
+{
+    background-color:#FFF600 ;
+    list-style-type: none;
+    box-shadow: 0 0 2rem #bac3c3;
+    text-align: center;
+}
+.p
+{
+    background-color:#0000FF ;
+    list-style-type: none;
+    box-shadow: 0 0 2rem #bac3c3;
+    text-align: center;
+}
+.bee
+{
+    background-color:#FF8C00 ;
+    list-style-type: none;
+    box-shadow: 0 0 2rem #bac3c3;
+    text-align: center;
+}
+.wmp
+{
+    background-color: #9EFD38;
+    list-style-type: none;
+    box-shadow: 0 0 2rem #bac3c3;
+    text-align: center;
+}
+.t
+{
+    display: flex;
+
+    width: 80vw;
+    height: 80vh;
+    box-sizing: border-box;
+
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.main
+{
+transform: translateY(10vh);
+}
+#backbutton
+{
+    text-decoration: none;
+    border-radius: 10px;
+    display: flex;
+    width: 10vw;
+    height: 10vh;
+    background-color: rgb(15, 192, 15);
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+    font-weight: bolder;
+    box-shadow:  0 0 2rem #bac3c3;
+    
+}
