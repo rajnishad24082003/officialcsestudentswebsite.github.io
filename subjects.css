@@ -1,0 +1,42 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+@media(max-width:998px)
+{
+    html
+    {
+        font-size: 75%;
+    }
+}
+@media(max-width:768px)
+{
+    html
+    {
+        font-size: 55%;
+        
+    }
+}
+body ol li
+{
+    list-style: none;
+}
+body ol li h1 a
+{
+    text-decoration: none;
+    background-color: blue;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-row-gap: 2rem;
+    width: 80vw;
+    height: 10vh;
+    text-align: center;
+    padding-top:auto;
+
+}
+body ol
+{
+    width: 90%;
+}
