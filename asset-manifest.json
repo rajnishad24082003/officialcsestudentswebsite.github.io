@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33fed0fd.css",
+    "main.js": "/static/js/main.4c2eccc5.js",
+    "static/js/787.f958d6d7.chunk.js": "/static/js/787.f958d6d7.chunk.js",
+    "static/media/Job13.jpg": "/static/media/Job13.2875f9120cc215f011ec.jpg",
+    "static/media/wmp.jpg": "/static/media/wmp.7df59bdec2f6f9ec94d7.jpg",
+    "static/media/NCERT-Books-for-Class-6_Maths.jpg": "/static/media/NCERT-Books-for-Class-6_Maths.8e0c0c05fd37e59e2bb0.jpg",
+    "static/media/physics.png": "/static/media/physics.22926f21deaaf25e996e.png",
+    "static/media/bee.jfif": "/static/media/bee.17bc84212d0eca28bba7.jfif",
+    "static/media/egd.jfif": "/static/media/egd.7d109d367c7b10969f1f.jfif",
+    "index.html": "/index.html",
+    "main.33fed0fd.css.map": "/static/css/main.33fed0fd.css.map",
+    "main.4c2eccc5.js.map": "/static/js/main.4c2eccc5.js.map",
+    "787.f958d6d7.chunk.js.map": "/static/js/787.f958d6d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fed0fd.css",
+    "static/js/main.4c2eccc5.js"
+  ]
+}
